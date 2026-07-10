@@ -1,6 +1,6 @@
 ## 🌐 Smart Meeting Action Tracker
 
----
+
 🧾 Overview
 
 Smart Meeting Action Tracker is a full-stack web application that helps users convert meeting discussions into structured, actionable tasks. The application streamlines meeting management by organizing notes, assigning responsibilities, tracking deadlines, and monitoring task progress through an interactive dashboard. It also integrates AI to automatically generate action items from meeting notes.
